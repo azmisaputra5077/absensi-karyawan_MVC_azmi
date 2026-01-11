@@ -1,0 +1,1 @@
+- [x] Update welcome message in app/Views/dashboard/index.php to hardcode name as "Azmi Syaputra" and change login text to "Anda login sebagai: admin"
